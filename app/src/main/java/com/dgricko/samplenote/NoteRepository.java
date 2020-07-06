@@ -88,7 +88,6 @@ public class NoteRepository {
             this.noteDAO = noteDAO;
         }
 
-
         @Override
         protected Void doInBackground(Void... voids) {
             noteDAO.deleteAllNotes();

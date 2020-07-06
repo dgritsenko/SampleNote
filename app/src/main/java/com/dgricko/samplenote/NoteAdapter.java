@@ -44,6 +44,10 @@ public class NoteAdapter extends RecyclerView.Adapter<NoteAdapter.NoteViewHolder
         this.notes = notes;
         notifyDataSetChanged();
     }
+    //method for SwipeDel
+    public Note getNoteAt(int position){
+        return notes.get(position);
+    }
 
     class NoteViewHolder extends RecyclerView.ViewHolder{
 
