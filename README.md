@@ -12,7 +12,7 @@ Libraries/technologies used:
  
 
  
- ![Screenshot](https://github.com/dgritsenko/SampleNote/Screenshot_2020-07-07-16-41-31-068_com.dgricko.samplenote.png)
- ![Screenshot](https://github.com/dgritsenko/SampleNote/Screenshot_2020-07-07-16-41-52-506_com.dgricko.samplenote.png)
+ ![Screenshot](https://github.com/dgritsenko/SampleNote/blob/master/Screenshot_2020-07-07-16-41-52-506_com.dgricko.samplenote.png)
+ ![Screenshot](https://github.com/dgritsenko/SampleNote/blob/master/Screenshot_2020-07-07-16-41-31-068_com.dgricko.samplenote.png)
 
 
